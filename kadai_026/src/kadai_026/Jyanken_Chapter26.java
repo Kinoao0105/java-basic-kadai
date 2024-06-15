@@ -28,7 +28,7 @@ public class Jyanken_Chapter26 {
 	
 	public String getRandom() {
 		
-		 String enemyChoice[] = {"r","c","p"};
+		 String enemyChoice[] = {"r","s","p"};
 		 
 		 int enemyInput = (int) Math.round(Math.random() * 3);
 		 
